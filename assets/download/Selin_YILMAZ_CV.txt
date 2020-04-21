@@ -1,0 +1,60 @@
+                            Özgeçmiş
+ KİŞİSEL BİLGİLER         Selin YILMAZ
+                            Hacettepe Üniversitesi Beytepe Kampüsü KYK Emine Şerife Hanım Yurdu (553) 564 33 22
+                            selin.yilmaz.9550@gmail.com
+
+
+
+                            Cinsiyet Kadın| Doğum Tarihi 27/03/1995 | Uyruk T.C.
+             ÜNVAN
+                     Öğrenci
+EĞİTİM VE ÖĞRETİM
+18/09/2015 – …
+                 Lisans
+Hacettepe Üniversitesi / ANKARA Geomatik Mühendisliği 4. Sınıf
+Akademik not ortalaması : 2.61
+
+
+
+
+KİŞİSEL BECERİLER
+           Ana dil Türkçe
+                 ANLAMA                                      KONUŞMA                         YAZILI ANLATIM
+
+   Dinleme                  Okuma          Karşılıklı Konuşma         Sözlü Anlatım
+
+       Yabancı diller
+             İngilizce B1   B2 B1 B1 B 1
+
+   İŞ DENEYİMLERİ             Seviyeler: A1/A2 Temel Seviye Kullanıcı - B1/B2: Orta Seviye Kullanıcı - C1/C2: İleri Seviye Kullanıcı
+                               Avrupa Dilleri Öğretimi Ortak Çerçeve Programı
+                               Belsis Yazılım (Proje Yönetimi Birimi) - Stajyer
+                              BelsisCAD yazılımında veri analizi üzerine çalıştım. 29/08/2018 – 18/09/2019
+                               ELTEMTEK Elektrik Tesisleri ve Mühendislik Hizmetleri A.Ş. (Güç Sistemleri Birimi) – Stajyer
+                              Sahadan gelen verileri ArcMap üzerinde analiz ettim.
+                              22/07/2019 – 23/08/2019
+
+
+   DİĞER BİLGİLER                           4. FIG (Uluslararası Ölçmeciler Birliği) Genç Haritacılar Konferansı (05-06/05/2018
+   Sertifikalar & Seminer                  – İSTANBUL)
+                                            16. Türkiye Harita ve Bilimsel Teknik Kurultayı (03-06/05/2017 – ANKARA)
+                                            Gönüllü map creator – HERE Maps (24/04/2016 – 24/10/2016)
+                                            21. Akademik Bilişim Kış Kampı – Özgür Yazılımlarda Haritalama ve Konumsal
+                                           Uygulama
+                                           (09-12/02/2019 – ORDU )
+
+
+
+
+   KULLANILAN                               ArcMap
+   PROGRAMLAR &                             QGIS
+   YAZILIMLAR                               Netcad
+   BİTİRME PROJESİ                          Matlab
+                                            Python
+
+
+
+
+                            Halihazırda üzerinde çalıştığım proje :
+                            Hareketli Nesne Veri tabanı Kullanılarak Birlik Takip Sistemi Geliştirilmesi
+
